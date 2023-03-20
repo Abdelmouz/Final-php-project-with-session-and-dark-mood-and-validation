@@ -1,0 +1,76 @@
+body {
+  background-color: #d5d5d5;
+  color: rgb(8, 8, 8);
+}
+.bg-dark {
+  background-color: rgb(248, 249, 250) !important;
+}
+.navbar-nav,
+.navbar-brand,
+.nav-link {
+  color: #3164f9 !important;
+}
+
+.title_h1 {
+  color: #3164f9;
+  text-shadow: 8px 7px 5px #7dafe0;
+}
+.navbar-toggler {
+  border-color: #575454;
+  box-shadow: #575454;
+}
+.fa-solid {
+  color: #575454;
+}
+.card {
+  /* border-color: #dbdbdb;
+  background-color: #dbdbdb; */
+  box-shadow: 10px 10px 10px #b1b1b1;
+}
+.card-form {
+  border-color: #fff;
+  background-color: #b1b1b1;
+  box-shadow: 10px 10px 10px #b1b1b1;
+}
+.card-body {
+  background-color: #fbfbfb;
+}
+.dropdown-menu {
+  background-color: #fff;
+}
+.dropdown-item {
+  color: rgb(65, 62, 62);
+}
+.dropdown-item:hover {
+  color: #16181b;
+  text-decoration: none;
+  background-color: #e9ecef;
+}
+.table {
+  --bs-table-color: var(--bs-body-color);
+  --bs-table-bg: transparent;
+  --bs-table-border-color: var(--bs-border-color);
+  --bs-table-accent-bg: transparent;
+  --bs-table-striped-color: var(--bs-body-color);
+  --bs-table-striped-bg: rgba(0, 0, 0, 0.05);
+  --bs-table-active-color: var(--bs-body-color);
+  --bs-table-active-bg: rgba(0, 0, 0, 0.1);
+  --bs-table-hover-color: var(--bs-body-color);
+  --bs-table-hover-bg: rgba(0, 0, 0, 0.075);
+  width: 100%;
+  margin-bottom: 1rem;
+  color: var(--bs-table-color);
+  vertical-align: top;
+  border-color: var(--bs-table-border-color);
+}
+
+.card_flex {
+  background-color: #fff !important;
+}
+.modal-content {
+  background-color: #fff;
+  color: #1f1e1e;
+}
+.modal-body {
+  background-color: #ededed;
+}
